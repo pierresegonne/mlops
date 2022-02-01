@@ -1,3 +1,6 @@
 [submodule "mlops-CI"]
 	path = mlops-CI
 	url = git@github.com:pierresegonne/mlops-CI.git
+[submodule "mlops-pipeline"]
+	path = mlops-pipeline
+	url = git@github.com:pierresegonne/mlops-pipeline.git

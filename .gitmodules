@@ -4,3 +4,6 @@
 [submodule "mlops-pipeline"]
 	path = mlops-pipeline
 	url = git@github.com:pierresegonne/mlops-pipeline.git
+[submodule "mlops-containers"]
+	path = mlops-containers
+	url = git@github.com:pierresegonne/mlops-containers.git

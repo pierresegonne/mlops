@@ -7,3 +7,9 @@
 [submodule "mlops-containers"]
 	path = mlops-containers
 	url = git@github.com:pierresegonne/mlops-containers.git
+[submodule "mlops-cd_ml_models"]
+	path = mlops-cd_ml_models
+	url = https://github.com/pierresegonne/mlops-cd_ml_models
+[submodule "mlops-automl"]
+	path = mlops-automl
+	url = https://github.com/pierresegonne/mlops-automl
